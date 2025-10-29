@@ -26,7 +26,7 @@ const App = () => {
     brandLogo: "https://logo.clearbit.com/microsoft.com",
     companyName: "Microsoft",
     datePosted: "10 days ago",
-    post: "Cloud Solutions Architect",
+    post: "Cloud Sols Architect",
     tag1: "Full Time",
     tag2: "Senior Level",
     pay: "$95/hr",

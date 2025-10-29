@@ -1,0 +1,17 @@
+.header{
+    background-color: blueviolet;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px 20px;
+    margin: 5px;
+    border-radius: 10px;
+}
+.btn{
+    padding:5px;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    color: black;
+    cursor: pointer;
+}
