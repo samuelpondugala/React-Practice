@@ -1,8 +1,11 @@
 
 const App = () => {
+  const btnclicked = () =>{
+    console.log("Hello guysss")
+  }
   return (
     <div>
-      <h1 className="text-6xl font-bold" >Hello Guyss</h1>
+      <button onClick={btnclicked}>Click Here</button>
     </div>
   );
 };
