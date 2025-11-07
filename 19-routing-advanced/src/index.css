@@ -8,13 +8,23 @@ h1{
     transform: translate(-50%,-50%);
     text-decoration: underline;
     font-weight: 600;
+    white-space: nowrap;
+    text-transform: capitalize;
+    
 }
 p{
     position: absolute;
-    top:65%;
+    top:60%;
     left:50%;
     color: red;
     transform: translate(-50%,-50%);
     font-size: 20px;
     font-weight: bolder;
 }
+/* h3{
+    font-size: 50px;
+    display: inline;
+    text-decoration: underline;
+    font-weight: 600;
+    margin: 10px;
+} */

@@ -10,7 +10,8 @@ const Navbar = () => {
         <a href="/product" className="text-lg font-medium">Product</a> */}
         <Link to='/' className="text-lg font-medium">Home</Link>
         <Link to='/about' className="text-lg font-medium">About</Link>
-        <Link to='/product' className="text-lg font-medium">Product</Link>
+        <Link to='/courses' className="text-lg font-medium">Courses</Link>
+        <Link to='/product' className="text-lg font-medium">Products</Link>
       </div>
     </div>
   );
