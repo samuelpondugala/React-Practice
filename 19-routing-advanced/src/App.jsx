@@ -42,7 +42,6 @@ const App = () => {
           <Route path='women' element={<Women/>}/>
           <Route path='kids' element={<Kids/>}/>
         </Route>
-        
       </Routes>
       <Footer/>
     </div>
